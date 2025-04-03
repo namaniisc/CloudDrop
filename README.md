@@ -1,3 +1,5 @@
+![Demo](CloudDrop.gif)
+
 # File Sharing Web App
 
 A file-sharing application that lets users upload any file, generates a unique download link, and optionally sends the link via email.
